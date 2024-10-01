@@ -21,7 +21,7 @@ Soy curiosa y detallista acerca del mundo del análisis de datos
 
 ### :hammer_and_wrench: Lenguajes y herramientas:
 <div id="header" align="left">
-    <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+    <img decoding="async" src="icons/python/python-original-wordmark.svg" alt="python"/>
   </a>
     <img decoding="async" src="![Static Badge](https://img.shields.io/badge/SQL-blue)" alt="sql"/> 
 
