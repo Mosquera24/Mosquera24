@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/Mosquera24/Mosquera24/blob/main/Banner%20Para%20Linkedin.png" width="800"/>
+  <img decoding="async" src="https://github.com/Mosquera24/Mosquera24/blob/main/Banner%20Para%20Linkedin%20Data%20Analyst.png" width="800"/>
 </div>
 
 <div id="header" align="center">
