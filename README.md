@@ -14,6 +14,6 @@
  <div id="header" align="left">
 
 ### :woman_technologist: Sobre mí :
-Soy analítica, detallista, curiosa acerca del mundo del análisis de datos
+Soy curiosa y detallista acerca del mundo del análisis de datos
 * :disguised_face: Actualmente me encuentro en constante aprendisaje sobre lenguajes  como: SQL, Python, sin dejar de lado las herramientas de Microsof.
 
