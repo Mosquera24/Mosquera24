@@ -1,4 +1,7 @@
 ## Hi there 👋
+<div id="header" align="center">
+  <img decoding="async" src="https://github.com/Mosquera24/Mosquera24/blob/main/Banner%20Para%20Linkedin.png" width="800"/>
+</div>
 
 <!--
 **Mosquera24/Mosquera24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
