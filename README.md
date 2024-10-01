@@ -13,7 +13,23 @@
   ---
  <div id="header" align="left">
 
-### :woman_technologist: Sobre mí :
+### :woman_technologist: Sobre mí:
 Soy curiosa y detallista acerca del mundo del análisis de datos
 * :disguised_face: Actualmente me encuentro en constante aprendizaje sobre lenguajes  como: SQL, Python, sin dejar de lado las herramientas de Microsoft.
+* :sparkling_heart: Me encanta transformar datos en insights accionables
+---
 
+### :hammer_and_wrench: Lenguajes y herramientas:
+<div id="header" align="left">
+    <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  </a>
+    <img decoding="async" src="https://img.shields.io/badge/SQL-blue
+" alt="sql"/> 
+
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
+  </a>
+
+</div>
