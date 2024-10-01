@@ -23,7 +23,7 @@ Soy curiosa y detallista acerca del mundo del análisis de datos
 <div id="header" align="left">
     <img decoding="async" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="90" alt="python"/>
   </a>
-    <img decoding="async" src="![Static Badge](https://img.shields.io/badge/SQL-blue)" alt="sql"/> 
+    <img decoding="async" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="90" alt="Rstudio"/> 
 
   </a>
  <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
