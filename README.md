@@ -35,5 +35,7 @@ Soy curiosa y detallista acerca del mundo del análisis de datos
  <img decoding="async" src="https://github.com/Mosquera24/Mosquera24/blob/main/icons/Power-bi.png" width="50" alt="powerBi"/>
   </a>
 
-
+ </a>
+ <img decoding="async" src="https://github.com/Mosquera24/Mosquera24/blob/main/icons/Tableau.png" width="50" alt="Tableau"/>
+  </a>
 </div>
