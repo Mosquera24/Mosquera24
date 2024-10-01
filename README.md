@@ -28,7 +28,12 @@ Soy curiosa y detallista acerca del mundo del análisis de datos
   </a>
  <img decoding="async" src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" width="50" alt="SQL"/>
   </a>
- <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
+ <img decoding="async" src="https://github.com/Mosquera24/Mosquera24/blob/main/icons/Excel.png" width="50" alt="Excel"/>
   </a>
+
+  </a>
+ <img decoding="async" src="https://github.com/Mosquera24/Mosquera24/blob/main/icons/Excel.png" width="50" alt="powerBi"/>
+  </a>
+
 
 </div>
