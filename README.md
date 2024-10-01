@@ -21,12 +21,12 @@ Soy curiosa y detallista acerca del mundo del análisis de datos
 
 ### :hammer_and_wrench: Lenguajes y herramientas:
 <div id="header" align="left">
-    <img decoding="async" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="90" alt="python"/>
+    <img decoding="async" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="70" alt="python"/>
   </a>
-    <img decoding="async" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="90" alt="Rstudio"/> 
+    <img decoding="async" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" width="70" alt="Rstudio"/> 
 
   </a>
- <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
+ <img decoding="async" src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" width="70" alt="SQL"/>
   </a>
  <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
   </a>
